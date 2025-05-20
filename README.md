@@ -12,11 +12,10 @@ Hello there! My name is Edward, and I’m a dedicated developer with several yea
 **Projects:**
 
 *   **CPaint:**  A simple painting application developed in C, built with my own bitUI engine.
-(Explore here: [Здесь нужно добавить ссылку на проект CPaint, если он есть])
+
 *   **SyntaxSage:** A versatile code editor developed using Electron, employing JavaScript,
-CSS, and HTML. ([Здесь нужно добавить ссылку на проект SyntaxSage, если он есть])
-*   **Rupify:** A music streaming service currently under development, leveraging React and
-NestJs. (Currently in development - look out for updates!)
+CSS, and HTML. 
+
 
 **Language Learning:**
 
